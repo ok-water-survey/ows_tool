@@ -1,0 +1,5 @@
+CherryPy==8.1.0
+pymongo==2.7.2
+Cheetah==2.4.4
+python-dateutil==1.5
+anyjson==0.3.3
